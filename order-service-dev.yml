@@ -3,7 +3,7 @@ spring:
     name: order-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/order_service
+    url: jdbc:mysql://localhost:3306/order_service_micro
     username: root
     password: SP25@hit
 
